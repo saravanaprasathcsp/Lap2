@@ -17,6 +17,7 @@ public class Exercise1 {
 		array[3]=10;
 		array[4]=8;
 		System.out.println(getSecoundSmallest(array));
+		
 				
 
 	}
